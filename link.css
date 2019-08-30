@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: rgb(35,35,35);
+    font-family: 'Comfortaa', cursive;
+    color: wheat;
+}
+
+.navbar {
+    background-color: rgb(10,10,10);
+}
+.navbar-brand {
+    font-family: 'Fredericka the Great', cursive;
+    color: gold;
+}
+.navbar-toggler-icon {
+    color: gold;
+}
+.nav-link {
+    color: goldenrod;
+}
+
+#schedule, #schedule th, #schedule td {
+    border: 1px ridge;
+    padding: 5px;
+}
+table {
+    margin: 5px auto;
+}
+
+#activites {
+    margin: 10px auto;
+    width: 95%;
+}
+
+#SixtyFourSquares {
+    margin: 10px 8vw;
+}
+.btn64 {
+    width: 10vw;
+    height: 10vw;
+    margin: 0 -2px;
+    background-color: grey;
+    border-color:grey;
+}
+.btnPath {
+    background-color: white;
+}
+.btnRight {
+    background-color: greenyellow;
+}
+.btnWrong {
+    background-color: red;
+}
