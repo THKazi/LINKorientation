@@ -5,10 +5,14 @@ body {
     background-color: rgb(35,35,35);
     font-family: 'Comfortaa', cursive;
     color: wheat;
+    margin-top: 65px;
 }
 
 .navbar {
+    width: 100vw;
+    position: fixed;
     background-color: rgb(10,10,10);
+    margin-top: -65px;
 }
 .navbar-brand {
     font-family: 'Fredericka the Great', cursive;
@@ -32,6 +36,7 @@ table {
 #activites {
     margin: 10px auto;
     width: 95%;
+    margin-bottom: 50px;
 }
 
 #SixtyFourSquares {
