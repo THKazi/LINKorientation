@@ -7,6 +7,6 @@ $(".btn64").on("click",function(){
     }
 });
 
-$("#reset64").on("click", function(){
+$(".reset64").on("click", function(){
     $(".btn64").removeClass("btnRight btnWrong");
 })

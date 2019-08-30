@@ -42,6 +42,11 @@ table {
 #SixtyFourSquares {
     margin: 10px 8vw;
 }
+.reset64 {
+    width: 100px;
+    height: 40px;
+    margin: 10px auto;
+}
 .btn64 {
     width: 10vw;
     height: 10vw;
@@ -57,4 +62,8 @@ table {
 }
 .btnWrong {
     background-color: red;
+}
+
+h2 {
+    margin-top: 65px;
 }
