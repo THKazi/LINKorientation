@@ -7,6 +7,13 @@ body {
     color: wheat;
     margin-top: 65px;
 }
+h2 {
+    margin-top: 65px;
+}
+h3 {
+    margin-top: 15px;
+    margin-left: 20px;
+}
 
 .navbar {
     width: 100vw;
@@ -43,9 +50,11 @@ table {
     margin: 10px 8vw;
 }
 .reset64 {
-    width: 100px;
-    height: 40px;
+    width: 150px;
+    height: 80px;
     margin: 10px auto;
+    display: block;
+    font-size: 2rem;
 }
 .btn64 {
     width: 10vw;
@@ -62,8 +71,4 @@ table {
 }
 .btnWrong {
     background-color: red;
-}
-
-h2 {
-    margin-top: 65px;
 }
